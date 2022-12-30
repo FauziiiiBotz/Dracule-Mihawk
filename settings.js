@@ -9,15 +9,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6281540022632','6281540022632'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6281540022632' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Subscribe YT' //Ganti Jadi Nama Botmu
-global.author = 'NZRLAFNDI' //Ganti Jadi Namamu
+global.ownerNumber = ['14144550783','14144550783'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '14144550783' //Owner Utama
+global.ownerName = 'Kmu Nanya??' //Ganti Jadi Namamu
+global.packname = 'ig axlfauzixy' //Ganti Jadi Nama Botmu
+global.author = 'FauziBotz-Md' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
-global.sosmed = 'https://www.instagram.com/_nzrlafndi' //Ganti Jadi Web Sosmed Mu
+global.sosmed = 'https://www.instagram.com/axlfauzixy' //Ganti Jadi Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
@@ -38,11 +38,11 @@ global.autolevelup = true //Ganti ke false klo gamau ada peningkatan exp user mu
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
-admin: '*Kamu Bukan Admin!*',
-botAdmin: '*Bot Bukan Admin!*',
-botOwner: '*Kamu Bukan Ownerku!*',
-group: '*Khusus Group!*',
-private: '*Khusus Private Chat!*',
+admin: '*Lu Bukan Admin Kontol!*',
+botAdmin: '*Bot Bukan Admin Bngst!*',
+botOwner: '*Lu Bukan Owner Bot Ngentod!*',
+group: '*Khusus Group Anj!*',
+private: '*Khusus Private Chat Memek!*',
 wait: '*Tunggu Sebentar.......*',
 done: '*Done!*',
 prem: '*Khusus User Premium*'
